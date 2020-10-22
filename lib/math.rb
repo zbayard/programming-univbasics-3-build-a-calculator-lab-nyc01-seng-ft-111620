@@ -5,7 +5,8 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  puts "#{num2} - #{num1}"
+  sub = num2 - num1
+  return sub
 
 end
 
