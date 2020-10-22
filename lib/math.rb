@@ -5,8 +5,8 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  sub = num2 - num1
-  return sub
+  subt = num2 - num1
+  return subt
 
 end
 
