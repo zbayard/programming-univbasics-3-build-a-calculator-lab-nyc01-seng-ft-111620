@@ -15,8 +15,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  puts "#{num1} * #{num2}"
-
+  times = num1 * num2
+  return times
 end
 
 def modulo(num1, num2)
